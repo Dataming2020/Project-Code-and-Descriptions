@@ -1,0 +1,19 @@
+Project title: Assessing the Probability of the SoccerMatch Outcome
+
+Team Members:Zhao Xinyuan, Yu Shangqing, Arman Aydemir
+
+Description of the Project:
+
+This project is built on Dixon and Coles model. A model which can make soccer match prediction and quantify the probability result is produced. The goal of this project is to investigate the correlation between a soccer teams history and the probability distribution for each possible match outcome in a given soccer match. The examination of the soccer result and odds data is to lead to the establishment of a model assessing the probability of each possible match outcome in a soccer match. The model will only use historical data match result data, and has no other prior information on the match.
+
+
+Summary of the questions sought and answers:
+1.Is soccer match result determined by strength or luck?
+2.How to compare soccer team strength relative to each other? How to quantify them?
+3.How are teams' strength changing during a season?
+3.How to give prediction on future match results?
+
+The answer:
+Strength of a teamwhether its attack or defence relatively stay constant during a season.
+Soccer games result arenot total random, ultimately team with better skills will have more chance to win the game.
+A model can be built to quantify the attack and defence strength and make prediction using historical match data.
